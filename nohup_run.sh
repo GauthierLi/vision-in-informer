@@ -1,0 +1,1 @@
+nohup python vii_train.py > logs/vii_train.log 2>&1 &
